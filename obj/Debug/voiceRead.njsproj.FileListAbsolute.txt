@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\voiceRead\voiceRead\obj\Debug\voiceRead.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\voiceRead\voiceRead\obj\Debug\voiceRead.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\voiceRead\voiceRead\bin\Microsoft.NodejsTools.WebRole.dll
